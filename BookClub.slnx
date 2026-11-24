@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BookClub.BusinessEntity/BookClub.BusinessEntity.csproj" />
+  <Project Path="BookClub.BusinessLogic/BookClub.BusinessLogic.csproj" />
+  <Project Path="BookClub.Console/BookClub.Console.csproj" />
+  <Project Path="BookClub.DataAccess/BookClub.DataAccess.csproj" />
+  <Project Path="BookClub.Tests/BookClub.Tests.csproj" />
+</Solution>
